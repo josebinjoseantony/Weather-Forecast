@@ -1,0 +1,25 @@
+
+.App{
+
+  background-image: url('https://images.pexels.com/photos/125510/pexels-photo-125510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-repeat:no-repeat;
+  background-size: cover;
+  width:100%;
+  height: 900px;
+  margin-top: 0px;
+  }
+  .container{
+    background-image: url('https://weathersource.com/wp-content/uploads/2020/02/API-Portal-scaled.jpeg');
+    background-color: rgba(255, 255, 255, 0.074);
+    height: 700px;
+    padding: 100px;
+    border-radius:7% ;
+    box-shadow: 2px 4px 6px rgba(255, 255, 255, 0.84);
+    width:500px;
+    align-items: center;
+    margin-left: 500px; 
+    
+    
+    
+  }  
+  
