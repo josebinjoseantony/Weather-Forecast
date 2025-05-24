@@ -1,7 +1,7 @@
 
 .App{
-
-  background-image: url('https://images.pexels.com/photos/125510/pexels-photo-125510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  padding: 1rem;
+  background-image: url('https://www.pixelstalk.net/wp-content/uploads/images1/Sky-storm-nature-weather-rain-clouds-best-desktop-wallpapers-1920x1080.jpg');
   background-repeat:no-repeat;
   background-size: cover;
   width:100%;
@@ -9,7 +9,7 @@
   margin-top: 0px;
   }
   .container{
-    background-image: url('https://weathersource.com/wp-content/uploads/2020/02/API-Portal-scaled.jpeg');
+    background-image: url('https://cdn.pixabay.com/photo/2023/11/20/18/21/sunset-8401670_1280.jpg');
     background-color: rgba(255, 255, 255, 0.074);
     height: 700px;
     padding: 100px;
